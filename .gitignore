@@ -1,0 +1,6 @@
+syntax: glob
+application/config/application.php
+application/config/cache.php
+application/config/database.php
+storage/cache/
+storage/views/
